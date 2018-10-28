@@ -3,9 +3,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>아이디 찾기_[Pick Me]</title>
-</head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Carousel Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/pickme/resources/bootstrap-4.1.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+  </head>
 <body>
 
 <%@ include file="../common/header.jsp" %>
@@ -22,8 +33,6 @@
 <a href="/pickme/views/user/UserLoginForm.jsp">로그인</a>
 /
 <a href="/pickme/views/user/UserJoinForm.jsp">가입</a>
-
-
 
 <%@ include file="../common/footer.jsp" %>
 

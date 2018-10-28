@@ -3,11 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>footer title</title>
 </head>
-<body>
+<footer>
 	<hr>
-	<h1>FOOTER.JSP</h1>
-</body>
-</html>
+	<h1>footer.jsp</h1>
+</footer>
